@@ -1,0 +1,7 @@
+{
+  "name": "floom",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
